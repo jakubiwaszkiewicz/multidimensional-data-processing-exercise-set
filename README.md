@@ -16,4 +16,6 @@ Each lab directory focuses on a specific programming concept and provides a simp
 - SciPy  
 
 ## Purpose
-This repository is intended for educational use and serves as a quick reference while learning and practicing programming concepts.
+This repository is intended for educational use and serves as a quick reference while learning and practicing programming concepts.  
+
+ToDo: name the directories as concept not like 1,2,3,4, etc.
